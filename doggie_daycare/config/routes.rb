@@ -3,6 +3,8 @@ Rails.application.routes.draw do
 
   get 'pages/days'
 
+  get 'pages/care'
+
   root 'pages#days'
 
   # The priority is based upon order of creation: first created -> highest priority.

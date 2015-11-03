@@ -4,4 +4,8 @@ class PagesController < ApplicationController
 
   def days
   end
+
+  def care
+  end
+
 end
