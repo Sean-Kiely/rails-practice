@@ -1,0 +1,7 @@
+rails new app_name
+cd app_name
+rails s (server)
+rails g(enerate) controller  Class page1 page2....
+rake routes - shows all routes
+bundle (updates gems)
+git diff (shows what changed in files)
